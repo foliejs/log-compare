@@ -1,0 +1,13 @@
+{
+  "name": "log-compare",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "sunnode <m18205253820@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bunyan": "^1.8.9",
+    "ilog": "^1.0.3",
+    "pino": "^4.2.4",
+    "winston": "^2.3.1"
+  }
+}
