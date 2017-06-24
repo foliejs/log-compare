@@ -10,6 +10,8 @@
 
 ## Contains Log Story
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/foliejs/log-compare.svg)](https://greenkeeper.io/)
+
 * [buyuan](https://github.com/trentm/node-bunyan)
 * [ilog](https://github.com/teambition/ilog)
 * [pino](https://github.com/pinojs/pino)
